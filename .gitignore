@@ -1,0 +1,14 @@
+# Jetbrains
+.idea
+
+# Eclipse
+*.project
+
+# Python
+__pycache__
+
+# SQLite
+*.db
+
+# Nohup
+nohup.out
